@@ -1,0 +1,12 @@
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\bin\Debug\BookRentalSystem.exe
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\bin\Debug\BookRentalSystem.pdb
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\bin\Debug\BookRentalSystem.xml
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\obj\Debug\BookRentalSystem.Form1.resources
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\obj\Debug\BookRentalSystem.Resources.resources
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\obj\Debug\BookRentalSystem.RentalMaster.resources
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\obj\Debug\BookRentalSystem.Renting.resources
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\obj\Debug\BookRentalSystem.ReturnBook.resources
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\obj\Debug\BookRentalSystem.vbproj.GenerateResource.Cache
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\obj\Debug\BookRentalSystem.exe
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\obj\Debug\BookRentalSystem.xml
+E:\Student Jobs\VB.Net\BookRentalSystem\BookRentalSystem\obj\Debug\BookRentalSystem.pdb
